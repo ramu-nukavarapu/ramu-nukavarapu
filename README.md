@@ -25,4 +25,3 @@ I'm currently employed as AI Intern at Swecha Telangana. Telugu AI Assistant is 
 ---
 [![](https://visitcount.itsvg.in/api?id=ramu-nukavarapu&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
