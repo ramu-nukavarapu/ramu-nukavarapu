@@ -1,6 +1,6 @@
 # Hi there👋, I'm Ramu Nukavarapu
 # 💫 About Me:
-I'm currently employed as AI Intern at Swecha Telangana. Telugu AI Assistant is the project where I'm functioning to create agents which are used to manage the workflows. For that, I'm using CrewAI, Autogen and LangChain frameworks. I'm very much enthusiastic to learn about New Things that has both Creativity and Challenges. Coming to my Academics, I'm currently pursuing Final Year in Bachelor of Technology(Computer Science stream).
+I'm very much enthusiastic to learn about New Things that has both Creativity and Challenges and makes my hands dirty by hands-on. Coming to my Academics, I'm currently pursuing Final Year in Bachelor of Technology(Computer Science stream).
 
 
 ## 🌐 Socials:
